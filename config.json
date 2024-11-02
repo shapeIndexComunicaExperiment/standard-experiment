@@ -3,6 +3,18 @@
         [
             "../config/config-solid-shape-index.json",
             "shape_index"
+        ],
+        [
+            "../config/config-solid-default.json",
+            "type_index_ldp"
+        ],
+        [
+            "../config/config-solid-ldp.json",
+            "ldp"
+        ],
+        [
+            "../config/config-solid-type-index.json",
+            "type_index"
         ]
     ]
 }
