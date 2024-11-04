@@ -1,416 +1,223 @@
 {
   "data": {
-    "../queries/parsed/interactive-short-1.sparql.json": {
+    "interactive-discover-1": {
       "v0": [
         {
           "results": [
             {
-              "lastName": "\"Perera\"",
-              "gender": "\"male\"",
-              "browserUsed": "\"Firefox\"",
-              "cityId": "\"1353\"^^http://www.w3.org/2001/XMLSchema#int",
-              "creationDate": "\"2010-02-14T15:32:10.447Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Mahinda\"",
-              "locationIP": "\"119.235.7.103\"",
-              "birthday": "\"1989-12-03\"^^http://www.w3.org/2001/XMLSchema#date",
-              "_arrival_time": 120.0806909999992
+              "messageContent": "\"About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne\"",
+              "messageCreationDate": "\"2011-08-17T06:05:40.595Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"618475290624\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 939.5406269999985
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1\"",
+              "messageCreationDate": "\"2010-02-14T20:30:21.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"3\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 939.5758709999973
+            },
+            {
+              "messageContent": "\"About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th\"",
+              "messageCreationDate": "\"2011-01-05T05:21:15.452Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"412316860440\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1300.1406779999998
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o\"",
+              "messageCreationDate": "\"2012-07-20T03:48:53.147Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"1030792151044\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1300.1622009999992
+            },
+            {
+              "messageContent": "\"About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 \"",
+              "messageCreationDate": "\"2012-06-03T10:23:21.946Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795586\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1354.5368959999978
+            },
+            {
+              "messageContent": "\"About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of \"",
+              "messageCreationDate": "\"2012-06-07T07:41:27.262Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795511\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1674.8589919999977
             }
           ],
-          "execution_time": 120.12452800000028,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v1": [
+          "execution_time": 1731.106324999997,
+          "n_results": 6,
+          "n_http_requests": 83
+        },
         {
           "results": [
             {
-              "lastName": "\"Lepland\"",
-              "gender": "\"female\"",
-              "browserUsed": "\"Internet Explorer\"",
-              "cityId": "\"519\"^^http://www.w3.org/2001/XMLSchema#int",
-              "creationDate": "\"2010-01-28T06:39:58.781Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Carmen\"",
-              "locationIP": "\"195.20.151.175\"",
-              "birthday": "\"1984-02-18\"^^http://www.w3.org/2001/XMLSchema#date",
-              "_arrival_time": 112.68377300000066
+              "messageContent": "\"About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne\"",
+              "messageCreationDate": "\"2011-08-17T06:05:40.595Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"618475290624\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 467.62175299999944
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1\"",
+              "messageCreationDate": "\"2010-02-14T20:30:21.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"3\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1858.2901549999988
+            },
+            {
+              "messageContent": "\"About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th\"",
+              "messageCreationDate": "\"2011-01-05T05:21:15.452Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"412316860440\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 2323.765185999997
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o\"",
+              "messageCreationDate": "\"2012-07-20T03:48:53.147Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"1030792151044\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 2388.140468999998
+            },
+            {
+              "messageContent": "\"About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 \"",
+              "messageCreationDate": "\"2012-06-03T10:23:21.946Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795586\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 2463.0267749999985
+            },
+            {
+              "messageContent": "\"About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of \"",
+              "messageCreationDate": "\"2012-06-07T07:41:27.262Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795511\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 2844.4292669999995
             }
           ],
-          "execution_time": 112.72271499999988,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v2": [
+          "execution_time": 2908.919504999998,
+          "n_results": 6,
+          "n_http_requests": 83
+        },
         {
           "results": [
             {
-              "lastName": "\"Rao\"",
-              "gender": "\"female\"",
-              "browserUsed": "\"Firefox\"",
-              "cityId": "\"306\"^^http://www.w3.org/2001/XMLSchema#int",
-              "creationDate": "\"2010-04-23T22:52:26.582Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"A.\"",
-              "locationIP": "\"49.202.188.25\"",
-              "birthday": "\"1985-08-02\"^^http://www.w3.org/2001/XMLSchema#date",
-              "_arrival_time": 131.08148000000074
+              "messageContent": "\"About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne\"",
+              "messageCreationDate": "\"2011-08-17T06:05:40.595Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"618475290624\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 191.14355599999908
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1\"",
+              "messageCreationDate": "\"2010-02-14T20:30:21.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"3\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1060.6200579999968
+            },
+            {
+              "messageContent": "\"About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th\"",
+              "messageCreationDate": "\"2011-01-05T05:21:15.452Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"412316860440\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1436.795124999997
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o\"",
+              "messageCreationDate": "\"2012-07-20T03:48:53.147Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"1030792151044\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1436.8205639999978
+            },
+            {
+              "messageContent": "\"About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 \"",
+              "messageCreationDate": "\"2012-06-03T10:23:21.946Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795586\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1510.1746559999992
+            },
+            {
+              "messageContent": "\"About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of \"",
+              "messageCreationDate": "\"2012-06-07T07:41:27.262Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795511\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1864.4306660000002
             }
           ],
-          "execution_time": 131.12502200000017,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v3": [
+          "execution_time": 1943.4031499999983,
+          "n_results": 6,
+          "n_http_requests": 83
+        },
         {
           "results": [
             {
-              "lastName": "\"Arbelaez\"",
-              "gender": "\"male\"",
-              "browserUsed": "\"Chrome\"",
-              "cityId": "\"1062\"^^http://www.w3.org/2001/XMLSchema#int",
-              "creationDate": "\"2010-06-16T20:53:47.633Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Gustavo\"",
-              "locationIP": "\"190.96.189.165\"",
-              "birthday": "\"1986-11-02\"^^http://www.w3.org/2001/XMLSchema#date",
-              "_arrival_time": 122.44245800000135
+              "messageContent": "\"About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne\"",
+              "messageCreationDate": "\"2011-08-17T06:05:40.595Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"618475290624\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 594.7828030000019
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1\"",
+              "messageCreationDate": "\"2010-02-14T20:30:21.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"3\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 936.337191999999
+            },
+            {
+              "messageContent": "\"About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th\"",
+              "messageCreationDate": "\"2011-01-05T05:21:15.452Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"412316860440\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1281.8708289999995
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o\"",
+              "messageCreationDate": "\"2012-07-20T03:48:53.147Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"1030792151044\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1281.8969400000024
+            },
+            {
+              "messageContent": "\"About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 \"",
+              "messageCreationDate": "\"2012-06-03T10:23:21.946Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795586\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1335.472947000002
+            },
+            {
+              "messageContent": "\"About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of \"",
+              "messageCreationDate": "\"2012-06-07T07:41:27.262Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795511\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1683.1752020000022
             }
           ],
-          "execution_time": 122.4840179999992,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v4": [
+          "execution_time": 1739.063216999999,
+          "n_results": 6,
+          "n_http_requests": 83
+        },
         {
           "results": [
             {
-              "lastName": "\"Peretz\"",
-              "gender": "\"female\"",
-              "browserUsed": "\"Internet Explorer\"",
-              "cityId": "\"1227\"^^http://www.w3.org/2001/XMLSchema#int",
-              "creationDate": "\"2010-07-23T12:55:52.503Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Eli\"",
-              "locationIP": "\"41.92.31.35\"",
-              "birthday": "\"1989-01-18\"^^http://www.w3.org/2001/XMLSchema#date",
-              "_arrival_time": 127.03112899999905
+              "messageContent": "\"About Rupert Murdoch, t newer electronic publishing technoAbout George Frideric Handel,  concertos. Handel was born in 1685,About Kurt Vonne\"",
+              "messageCreationDate": "\"2011-08-17T06:05:40.595Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"618475290624\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 167.9859120000001
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, alised US citizen iAbout Napoleon, tinuation of the waAbout Ferdinand II of Aragon, (1\"",
+              "messageCreationDate": "\"2010-02-14T20:30:21.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"3\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1008.7998079999998
+            },
+            {
+              "messageContent": "\"About Freddie Mercury, s the lead vocalist and lyricist of the rock band Queen. As a perfoAbout To Be with You,  songwriter working for the label at the time (though exactly what About Round Here,  th\"",
+              "messageCreationDate": "\"2011-01-05T05:21:15.452Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"412316860440\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1372.7078059999985
+            },
+            {
+              "messageContent": "\"About Rupert Murdoch, 50s and '60s, he acquAbout George Frideric Handel, man-British Baroque cAbout Jane Austen, estimate o\"",
+              "messageCreationDate": "\"2012-07-20T03:48:53.147Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"1030792151044\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1372.7321359999987
+            },
+            {
+              "messageContent": "\"About Gilbert du Motier, marquis de Lafayette, ights of Man About Manuel Noriega, 0 \"",
+              "messageCreationDate": "\"2012-06-03T10:23:21.946Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795586\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1427.4068939999997
+            },
+            {
+              "messageContent": "\"About George Clooney, d The Descendants (2011). Clooney's humanitarian work includes his advocacy of \"",
+              "messageCreationDate": "\"2012-06-07T07:41:27.262Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
+              "messageId": "\"962072795511\"^^http://www.w3.org/2001/XMLSchema#long",
+              "_arrival_time": 1833.680097999997
             }
           ],
-          "execution_time": 127.07662999999957,
-          "n_results": 1,
-          "n_http_requests": 13
+          "execution_time": 1894.5344819999991,
+          "n_results": 6,
+          "n_http_requests": 83
         }
       ]
-    },
-    "../queries/parsed/interactive-short-2.sparql.json": {
-      "v0": {
-        "timeout": 120000
-      },
-      "v1": {
-        "timeout": 120000
-      },
-      "v2": {
-        "timeout": 120000
-      },
-      "v3": {
-        "timeout": 120000
-      },
-      "v4": {
-        "timeout": 120000
-      }
-    },
-    "../queries/parsed/interactive-short-3.sparql.json": {
-      "v0": [
-        {
-          "results": [
-            {
-              "friendshipCreationDate": "\"2010-04-22T12:30:57.947Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Ibrahim Bare\"",
-              "lastName": "\"Ousmane\"",
-              "personId": "\"2199023256077\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 308.862761999997
-            },
-            {
-              "friendshipCreationDate": "\"2010-11-15T07:23:49.104Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Karl\"",
-              "lastName": "\"Muller\"",
-              "personId": "\"10995116278291\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 64768.219574999996
-            },
-            {
-              "friendshipCreationDate": "\"2011-12-15T02:34:43.085Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Abdullah\"",
-              "lastName": "\"Koksal\"",
-              "personId": "\"24189255811254\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 64768.24198599999
-            }
-          ],
-          "execution_time": 64906.421648999996,
-          "n_results": 3,
-          "n_http_requests": 18536
-        }
-      ],
-      "v1": [
-        {
-          "results": [
-            {
-              "friendshipCreationDate": "\"2010-04-13T16:44:22.450Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Rudolf\"",
-              "lastName": "\"Engel\"",
-              "personId": "\"2199023256437\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 784.076780000003
-            },
-            {
-              "friendshipCreationDate": "\"2012-01-19T19:21:54.433Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Emperor of Brazil\"",
-              "lastName": "\"Dom Pedro II\"",
-              "personId": "\"26388279067534\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48901.882327
-            },
-            {
-              "friendshipCreationDate": "\"2011-01-02T22:39:28.664Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Anders\"",
-              "lastName": "\"Andersson\"",
-              "personId": "\"10995116278468\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48901.92974400001
-            },
-            {
-              "friendshipCreationDate": "\"2011-09-17T21:40:17.976Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Michal\"",
-              "lastName": "\"Kaminski\"",
-              "personId": "\"19791209301592\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48901.973425000004
-            },
-            {
-              "friendshipCreationDate": "\"2012-04-15T04:24:28.397Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Joao\"",
-              "lastName": "\"Oliveira\"",
-              "personId": "\"28587302323722\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48902.38153300001
-            },
-            {
-              "friendshipCreationDate": "\"2012-05-29T18:00:10.845Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Alexander\"",
-              "lastName": "\"Hleb\"",
-              "personId": "\"30786325578932\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48902.40295
-            },
-            {
-              "friendshipCreationDate": "\"2012-08-03T22:09:15.016Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Alfred\"",
-              "lastName": "\"Hoffmann\"",
-              "personId": "\"32985348834375\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 48902.41952400001
-            }
-          ],
-          "execution_time": 49040.71177600001,
-          "n_results": 7,
-          "n_http_requests": 17326
-        }
-      ],
-      "v2": [
-        {
-          "results": [
-            {
-              "friendshipCreationDate": "\"2010-05-03T16:40:15.103Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"K.\"",
-              "lastName": "\"Bose\"",
-              "personId": "\"2199023256816\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 394.8974759999983
-            },
-            {
-              "friendshipCreationDate": "\"2011-06-23T11:17:36.047Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "firstName": "\"Alim\"",
-              "lastName": "\"Guliyev\"",
-              "personId": "\"17592186044425\"^^http://www.w3.org/2001/XMLSchema#long",
-              "_arrival_time": 67762.33588599999
-            }
-          ],
-          "execution_time": 67924.714252,
-          "n_results": 2,
-          "n_http_requests": 17597
-        }
-      ],
-      "v3": {
-        "timeout": 120000
-      },
-      "v4": {
-        "timeout": 120000
-      }
-    },
-    "../queries/parsed/interactive-short-4.sparql.json": {
-      "v0": [
-        {
-          "results": [
-            {
-              "messageCreationDate": "\"2010-04-24T18:33:07.152Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "messageContent": "\"About Paul Martin, 988 electiAbout François Mitterrand, de. They lAbout Indi\"",
-              "_arrival_time": 226.69529799999873
-            }
-          ],
-          "execution_time": 227.64490500000102,
-          "n_results": 1,
-          "n_http_requests": 12
-        }
-      ],
-      "v1": [
-        {
-          "results": [
-            {
-              "messageCreationDate": "\"2011-10-16T01:28:59.770Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "messageContent": "\"duh\"",
-              "_arrival_time": 237.20358100000158
-            }
-          ],
-          "execution_time": 238.14503799999875,
-          "n_results": 1,
-          "n_http_requests": 12
-        }
-      ],
-      "v2": [
-        {
-          "results": [
-            {
-              "messageCreationDate": "\"2012-06-30T18:40:09.451Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "messageContent": "\"photo962072952306.jpg\"",
-              "_arrival_time": 84.45799099999931
-            }
-          ],
-          "execution_time": 92.8489899999986,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v3": [
-        {
-          "results": [
-            {
-              "messageCreationDate": "\"2011-10-21T07:28:39.382Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "messageContent": "\"About Henry II of England, nds in Anjou, Maine and Touraine. Henry About Joe Strummer, Strummerville Foundation for th\"",
-              "_arrival_time": 84.93728999999803
-            }
-          ],
-          "execution_time": 96.13783399999738,
-          "n_results": 1,
-          "n_http_requests": 13
-        }
-      ],
-      "v4": [
-        {
-          "results": [
-            {
-              "messageCreationDate": "\"2012-03-21T12:28:03.902Z\"^^http://www.w3.org/2001/XMLSchema#dateTime",
-              "messageContent": "\"About Ivan Ljubičić, ly on his serve, About Keith Richards, ling Stones. RollAbout \"",
-              "_arrival_time": 199.36222999999882
-            }
-          ],
-          "execution_time": 200.25609599999734,
-          "n_results": 1,
-          "n_http_requests": 12
-        }
-      ]
-    },
-    "../queries/parsed/interactive-short-5.sparql.json": {
-      "v0": [
-        {
-          "results": [
-            {
-              "lastName": "\"Singh\"",
-              "personId": "\"1269\"^^http://www.w3.org/2001/XMLSchema#long",
-              "firstName": "\"Lata\"",
-              "_arrival_time": 187.13206400000126
-            }
-          ],
-          "execution_time": 188.28684700000304,
-          "n_results": 1,
-          "n_http_requests": 14
-        }
-      ],
-      "v1": [
-        {
-          "results": [
-            {
-              "lastName": "\"Sisamouth\"",
-              "personId": "\"2199023256300\"^^http://www.w3.org/2001/XMLSchema#long",
-              "firstName": "\"Dith\"",
-              "_arrival_time": 270.214512999999
-            }
-          ],
-          "execution_time": 271.27758900000117,
-          "n_results": 1,
-          "n_http_requests": 14
-        }
-      ],
-      "v2": [
-        {
-          "results": [
-            {
-              "lastName": "\"Binalshibh\"",
-              "personId": "\"6597069767242\"^^http://www.w3.org/2001/XMLSchema#long",
-              "firstName": "\"Salim Ahmed\"",
-              "_arrival_time": 530.9157319999977
-            }
-          ],
-          "execution_time": 531.9482559999997,
-          "n_results": 1,
-          "n_http_requests": 14
-        }
-      ],
-      "v3": [
-        {
-          "results": [
-            {
-              "lastName": "\"Boughedir\"",
-              "personId": "\"30786325578320\"^^http://www.w3.org/2001/XMLSchema#long",
-              "firstName": "\"Ammar\"",
-              "_arrival_time": 129.07865500000116
-            }
-          ],
-          "execution_time": 130.12886799999978,
-          "n_results": 1,
-          "n_http_requests": 15
-        }
-      ],
-      "v4": [
-        {
-          "results": [
-            {
-              "lastName": "\"Jahani\"",
-              "personId": "\"1125\"^^http://www.w3.org/2001/XMLSchema#long",
-              "firstName": "\"Abdul Razzak\"",
-              "_arrival_time": 356.90009400000054
-            }
-          ],
-          "execution_time": 357.3682660000013,
-          "n_results": 1,
-          "n_http_requests": 46
-        }
-      ]
-    },
-    "../queries/parsed/interactive-short-6.sparql.json": {
-      "v0": {
-        "timeout": 120000
-      },
-      "v1": {
-        "timeout": 120000
-      },
-      "v2": {
-        "timeout": 120000
-      },
-      "v3": {
-        "timeout": 120000
-      },
-      "v4": {
-        "timeout": 120000
-      }
-    },
-    "../queries/parsed/interactive-short-7.sparql.json": {
-      "v0": {
-        "timeout": 120000
-      },
-      "v1": {
-        "timeout": 120000
-      }
     }
   }
 }
