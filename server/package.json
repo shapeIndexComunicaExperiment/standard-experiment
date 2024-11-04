@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "rdf-dataset-fragmenter": "file:./rdf-dataset-fragmenter.js",
+    "solidbench": "^2.0.0"
+  },
+  "resolutions": {
+    "solidbench/rdf-dataset-fragmenter": "file:./rdf-dataset-fragmenter.js"
+  },
+  "scripts": {
+    "solidbench-generate": "yarn node node_modules/.bin/solidbench generate -f ./fragmenter-config-pod.json",
+    "solidbench-serve": "yarn node node_modules/.bin/solidbench serve --config ./server-config.json",
+    "clean": "rm -rf out-enhanced out-fragments out-queries out-snb out-validate out-validate-params/"
+  }
+}
