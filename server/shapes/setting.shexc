@@ -3,5 +3,5 @@ PREFIX ldbcvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary
 PREFIX schema: <http://www.w3.org/2000/01/rdf-schema#>
 
 <$> CLOSED {
-    a IRI <http://www.w3.org/ns/solid/terms#TypeIndex> ;
+    a <http://www.w3.org/ns/solid/terms#TypeIndex> ;
 }
