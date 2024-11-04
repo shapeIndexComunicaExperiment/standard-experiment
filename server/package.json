@@ -2,6 +2,7 @@
   "name": "server",
   "packageManager": "yarn@4.5.1",
   "dependencies": {
+    "componentsjs": "^6.3.0",
     "rdf-dataset-fragmenter": "file:./rdf-dataset-fragmenter.js",
     "solidbench": "^2.0.0"
   },
