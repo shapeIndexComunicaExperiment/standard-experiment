@@ -33,6 +33,7 @@ second run, the benchmark runner
 
 ```sh
 pushd ./simple-solidbench-comunica-runner
+    yarn install
     yarn node index.mjs -q ../queries -c ../config.json -r 50 -e ../simple-comunica-runner/index.mjs -o ../results -n "standard-shape-index-experiment" -b ${url-of-cloud-storage-from-nextcloud} &> ../results/log
 popd
 ```
