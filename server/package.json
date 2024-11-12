@@ -4,6 +4,7 @@
   "dependencies": {
     "componentsjs": "^6.3.0",
     "rdf-dataset-fragmenter": "file:./rdf-dataset-fragmenter.js",
+    "rdf-parse": "2.3.3",
     "solidbench": "^2.0.0"
   },
   "resolutions": {
