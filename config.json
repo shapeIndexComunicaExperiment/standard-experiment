@@ -11,10 +11,6 @@
         [
             "../config/config-solid-ldp.json",
             "ldp"
-        ],
-        [
-            "../config/config-solid-type-index.json",
-            "type_index"
         ]
     ]
 }
