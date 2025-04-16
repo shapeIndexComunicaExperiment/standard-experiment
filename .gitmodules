@@ -8,3 +8,4 @@
 [submodule "simple-solidbench-comunica-runner"]
 	path = simple-solidbench-comunica-runner
 	url = https://github.com/constraintAutomaton/simple-solidbench-comunica-runner.git
+
